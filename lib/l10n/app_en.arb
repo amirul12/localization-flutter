@@ -1,0 +1,17 @@
+{
+  "appTitle": "Heroes of Computer Science",
+  "@appTitle": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "openSettings": "Open Settings",
+  "@openSettings": {
+    "description": "The  greeting"
+  },
+  "wozniakBio": "Developed the {appleOne} & {appleTwo} microcomputers.",
+  "@wozniakBio": {
+    "placeholders": {
+      "appleOne": {},
+      "appleTwo": {}
+    }
+  }
+}
